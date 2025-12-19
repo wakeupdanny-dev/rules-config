@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "valid_keywords": [],
+  "valid_button": [],
+  "valid_crypto": [],
+  "nowork_crypto": [],
+  "rekl_ss_range": {
+    "prefix": "Rekl_SS_",
+    "from": 1,
+    "to": 999
+  }
+}
+
+
